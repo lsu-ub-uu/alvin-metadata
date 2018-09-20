@@ -1,0 +1,547 @@
+{
+    "children": [{
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "id",
+                        "value": "cartographic:3738739701586160"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "recordType"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "cartographic"
+                            }
+                        ],
+                        "name": "type"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "user"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "141414"
+                            }
+                        ],
+                        "name": "createdBy"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "alvin"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
+                        "name": "tsCreated",
+                        "value": "2018-07-11 12:56:49.317"
+                    },
+                    {
+                        "repeatId": "16",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 09:30:33.444"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "17",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 09:31:13.348"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "18",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 11:00:00.501"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "19",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 11:00:26.148"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "20",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 11:01:04.770"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "21",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 11:02:08.961"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "22",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 11:33:29.196"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "23",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-13 12:29:50.691"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "24",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-17 11:43:57.604"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "25",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-07-25 12:18:12.948"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "26",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-18 14:06:11.083"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "27",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-19 11:32:19.594"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "28",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-19 12:21:10.271"
+                            }
+                        ],
+                        "name": "updated"
+                    }
+                ],
+                "name": "recordInfo"
+            },
+            {
+                "name": "manuscript",
+                "value": "no"
+            },
+            {
+                "name": "collection",
+                "value": "yes"
+            },
+            {
+                "children": [
+                    {
+                        "name": "mainTitle",
+                        "value": "Karta huvudtitel"
+                    },
+                    {
+                        "name": "subTitle",
+                        "value": "undertitel karta"
+                    }
+                ],
+                "name": "title"
+            },
+            {
+                "repeatId": "0",
+                "children": [
+                    {
+                        "name": "type",
+                        "value": "alternative"
+                    },
+                    {
+                        "name": "mainTitle",
+                        "value": "karta alternativ huvudtitel"
+                    },
+                    {
+                        "name": "subTitle",
+                        "value": "undertitel karta"
+                    }
+                ],
+                "name": "alternativeTitle"
+            },
+            {
+                "repeatId": "12",
+                "children": [
+                    {
+                        "name": "type",
+                        "value": "uniform"
+                    },
+                    {
+                        "name": "mainTitle",
+                        "value": "Karta uniform titel"
+                    }
+                ],
+                "name": "alternativeTitle"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "locationUnit"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "uu"
+                            }
+                        ],
+                        "name": "location"
+                    },
+                    {
+                        "name": "collection",
+                        "value": "bibsysCollection"
+                    },
+                    {
+                        "name": "sigel",
+                        "value": "sigelUKA"
+                    },
+                    {
+                        "name": "subLocation",
+                        "value": "Avdelning, samling"
+                    },
+                    {
+                        "name": "shelfmark",
+                        "value": "Signum 1"
+                    },
+                    {
+                        "repeatId": "0",
+                        "name": "previousShelfmark",
+                        "value": "Tidigare signum"
+                    },
+                    {
+                        "name": "note",
+                        "value": "Anmärkning om signum"
+                    }
+                ],
+                "name": "physicalLocation"
+            },
+            {
+                "repeatId": "6",
+                "name": "language",
+                "value": "ale"
+            },
+            {
+                "repeatId": "7",
+                "name": "language",
+                "value": "alb"
+            },
+            {
+                "repeatId": "8",
+                "name": "cataloguingLanguage",
+                "value": "swe"
+            },
+            {
+                "repeatId": "9",
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "person"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "person:876"
+                            }
+                        ],
+                        "name": "personLink"
+                    },
+                    {
+                        "repeatId": "1",
+                        "name": "role",
+                        "value": "author"
+                    },
+                    {
+                        "repeatId": "2",
+                        "name": "role",
+                        "value": "editor"
+                    }
+                ],
+                "name": "personRole"
+            },
+            {
+                "repeatId": "10",
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "person"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "PersonOne"
+                            }
+                        ],
+                        "name": "personLink"
+                    },
+                    {
+                        "repeatId": "0",
+                        "name": "role",
+                        "value": "author"
+                    }
+                ],
+                "name": "personRole"
+            },
+            {
+                "repeatId": "11",
+                "children": [
+                    {
+                        "repeatId": "0",
+                        "name": "role",
+                        "value": "author"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "organisation"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "someOrganisation"
+                            }
+                        ],
+                        "name": "organisationLink"
+                    }
+                ],
+                "name": "organisationRole"
+            }
+        ],
+        "name": "cartographic"
+    }],
+    "name": "recordList"
+}
