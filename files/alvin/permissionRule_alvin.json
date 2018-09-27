@@ -95,6 +95,29 @@
                             }
                         ],
                         "name": "updated"
+                    },
+                    {
+                        "repeatId": "3",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-27 08:51:21.467"
+                            }
+                        ],
+                        "name": "updated"
                     }
                 ],
                 "name": "recordInfo"
@@ -143,7 +166,22 @@
                     {
                         "repeatId": "8",
                         "name": "permissionRulePartValue",
-                        "value": "system.locationUnit"
+                        "value": "system.cartographic"
+                    },
+                    {
+                        "repeatId": "11",
+                        "name": "permissionRulePartValue",
+                        "value": "system.cartographic2"
+                    },
+                    {
+                        "repeatId": "12",
+                        "name": "permissionRulePartValue",
+                        "value": "system.cartographic3"
+                    },
+                    {
+                        "repeatId": "13",
+                        "name": "permissionRulePartValue",
+                        "value": "system.movingImage"
                     }
                 ],
                 "name": "permissionRulePart",
