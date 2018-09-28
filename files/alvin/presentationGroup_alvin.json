@@ -22762,6 +22762,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "8",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-28 13:39:50.739"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -22816,11 +22839,11 @@
                                         "children": [
                                             {
                                                 "name": "linkedRecordType",
-                                                "value": "presentationGroup"
+                                                "value": "presentationVar"
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "bibliographicTitleOutputPGroup"
+                                                "value": "mainTitlePVar"
                                             }
                                         ],
                                         "name": "ref",
