@@ -131,6 +131,32 @@
             "name": "storageTerm"
         },
         {
+            "repeatId": "9",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "bibliographicGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "bibliographic"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "alvin"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
             "repeatId": "10",
             "children": [
                 {
@@ -1067,7 +1093,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "118",
+            "repeatId": "119",
             "children": [
                 {
                     "name": "type",
@@ -1105,6 +1131,32 @@
                 },
                 {
                     "name": "id",
+                    "value": "bibliographicAlternativeTitlesGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "alternativeTitles"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "alvin"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "124",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
                     "value": "formatDescriptionGroup"
                 },
                 {
@@ -1119,7 +1171,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "123",
+            "repeatId": "125",
             "children": [
                 {
                     "name": "type",
@@ -1145,7 +1197,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "125",
+            "repeatId": "127",
             "children": [
                 {
                     "name": "type",
@@ -1171,7 +1223,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "126",
+            "repeatId": "128",
             "children": [
                 {
                     "name": "type",
@@ -1197,7 +1249,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "130",
+            "repeatId": "132",
             "children": [
                 {
                     "name": "type",
@@ -1223,7 +1275,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "131",
+            "repeatId": "133",
             "children": [
                 {
                     "name": "type",
@@ -1249,7 +1301,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "144",
+            "repeatId": "146",
             "children": [
                 {
                     "name": "type",
@@ -1275,7 +1327,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "145",
+            "repeatId": "147",
             "children": [
                 {
                     "name": "type",
@@ -1301,7 +1353,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "146",
+            "repeatId": "148",
             "children": [
                 {
                     "name": "type",

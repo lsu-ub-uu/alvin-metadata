@@ -53,32 +53,6 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "9",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
-                    "value": "bibliographicGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "bibliographic"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "bibsys"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
             "repeatId": "12",
             "children": [
                 {
@@ -573,7 +547,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "128",
+            "repeatId": "118",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "languageCollectionItemGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "metadata"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "130",
             "children": [
                 {
                     "name": "type",
@@ -599,7 +599,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "134",
+            "repeatId": "136",
             "children": [
                 {
                     "name": "type",

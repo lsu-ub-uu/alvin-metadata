@@ -19,7 +19,7 @@
                         },
                         {
                             "name": "id",
-                            "value": "place:5097911845847741"
+                            "value": "place:5439620781758020"
                         },
                         {
                             "children": [
@@ -49,6 +49,116 @@
                         },
                         {
                             "name": "tsCreated",
+                            "value": "2018-10-02 08:45:36.381"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 08:45:36.381"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "children": [{
+                            "name": "value",
+                            "value": "Ockelbo"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "defaultName"}
+                    }],
+                    "name": "name",
+                    "attributes": {"type": "authorized"}
+                },
+                {
+                    "name": "country",
+                    "value": "SE"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "latitude",
+                            "value": "60.874444"
+                        },
+                        {
+                            "name": "longitude",
+                            "value": "16.7"
+                        }
+                    ],
+                    "name": "coordinates"
+                }
+            ],
+            "name": "authority",
+            "attributes": {"type": "place"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "place:5097911845847741"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "place"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412566252284358"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
                             "value": "2018-09-28 09:50:27.445"
                         },
                         {
@@ -73,6 +183,75 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 08:51:04.852"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 08:58:18.738"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 10:59:38.124"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -94,12 +273,12 @@
                     "children": [
                         {
                             "name": "language",
-                            "value": "ain"
+                            "value": "fre"
                         },
                         {
                             "children": [{
                                 "name": "value",
-                                "value": "Aaa"
+                                "value": "Alost"
                             }],
                             "name": "namePart",
                             "attributes": {"type": "defaultName"}
@@ -109,25 +288,40 @@
                     "attributes": {"type": "alternative"}
                 },
                 {
-                    "name": "country",
-                    "value": "ET"
-                },
-                {
-                    "name": "historicCountry",
-                    "value": "ptolemaicKingdom"
-                },
-                {
                     "children": [
                         {
                             "name": "latitude",
-                            "value": "1.2"
+                            "value": "50.938333"
                         },
                         {
                             "name": "longitude",
-                            "value": "1.2"
+                            "value": "4.039167"
                         }
                     ],
                     "name": "coordinates"
+                },
+                {
+                    "name": "country",
+                    "value": "BE"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [
+                        {
+                            "name": "language",
+                            "value": "hat"
+                        },
+                        {
+                            "children": [{
+                                "name": "value",
+                                "value": "Aloha"
+                            }],
+                            "name": "namePart",
+                            "attributes": {"type": "defaultName"}
+                        }
+                    ],
+                    "name": "name",
+                    "attributes": {"type": "alternative"}
                 }
             ],
             "name": "authority",
