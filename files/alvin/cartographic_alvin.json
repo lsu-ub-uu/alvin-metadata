@@ -5,19 +5,6 @@
                 {
                     "children": [
                         {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "alvin"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
                             "name": "id",
                             "value": "cartographic:5458495424366488"
                         },
@@ -48,6 +35,19 @@
                             "name": "createdBy"
                         },
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
                             "name": "tsCreated",
                             "value": "2018-10-02 14:00:11.023"
                         },
@@ -73,6 +73,52 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-03 08:16:13.166"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-03 08:56:17.725"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -86,14 +132,38 @@
                     "value": "no"
                 },
                 {
-                    "children": [{
-                        "name": "mainTitle",
-                        "value": "DDDDDDDDD"
-                    }],
+                    "children": [
+                        {
+                            "name": "mainTitle",
+                            "value": "DDDDDDDDD"
+                        },
+                        {
+                            "name": "subTitle",
+                            "value": "uuuuu"
+                        }
+                    ],
                     "name": "title"
                 },
                 {
                     "repeatId": "4",
+                    "children": [
+                        {
+                            "name": "type",
+                            "value": "abbreviated"
+                        },
+                        {
+                            "name": "mainTitle",
+                            "value": "D"
+                        },
+                        {
+                            "name": "subTitle",
+                            "value": "U"
+                        }
+                    ],
+                    "name": "alternativeTitle"
+                },
+                {
+                    "repeatId": "9",
                     "children": [
                         {
                             "name": "type",
