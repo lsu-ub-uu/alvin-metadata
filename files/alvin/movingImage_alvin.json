@@ -152,24 +152,6 @@
                     "name": "title"
                 },
                 {
-                    "repeatId": "5",
-                    "children": [
-                        {
-                            "name": "type",
-                            "value": "alternative"
-                        },
-                        {
-                            "name": "mainTitle",
-                            "value": "sf"
-                        },
-                        {
-                            "name": "subTitle",
-                            "value": "sf"
-                        }
-                    ],
-                    "name": "alternativeTitle"
-                },
-                {
                     "name": "typeOfLicensing",
                     "value": "typeOfLicensingInCopyright"
                 },
@@ -382,9 +364,63 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "7",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-08 13:23:31.689"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "children": [{
+                            "repeatId": "0",
+                            "children": [{
+                                "children": [
+                                    {
+                                        "name": "heightLength",
+                                        "value": "12"
+                                    },
+                                    {
+                                        "name": "width",
+                                        "value": "12"
+                                    },
+                                    {
+                                        "name": "depthThickness",
+                                        "value": "12"
+                                    },
+                                    {
+                                        "name": "diameter",
+                                        "value": "12"
+                                    }
+                                ],
+                                "name": "sizeUnits"
+                            }],
+                            "name": "extent"
+                        }],
+                        "name": "extents"
+                    }],
+                    "name": "physicalDescription"
                 }
             ],
             "name": "movingImage"

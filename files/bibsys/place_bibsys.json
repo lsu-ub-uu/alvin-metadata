@@ -4,19 +4,6 @@
             {
                 "children": [
                     {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "bibsys"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
                         "name": "id",
                         "value": "place:3816741903194760"
                     },
@@ -47,6 +34,19 @@
                         "name": "createdBy"
                     },
                     {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "bibsys"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
                         "name": "tsCreated",
                         "value": "2018-09-13 13:57:37.502"
                     },
@@ -69,6 +69,52 @@
                             {
                                 "name": "tsUpdated",
                                 "value": "2018-09-13 13:57:37.502"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-08 13:16:03.298"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "2",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-08 14:37:26.240"
                             }
                         ],
                         "name": "updated"
@@ -135,8 +181,23 @@
                 "name": "identifier"
             },
             {
-                "name": "country",
-                "value": "SE"
+                "repeatId": "2",
+                "children": [
+                    {
+                        "name": "language",
+                        "value": "alt"
+                    },
+                    {
+                        "children": [{
+                            "name": "value",
+                            "value": "ghghghghgh"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "defaultName"}
+                    }
+                ],
+                "name": "name",
+                "attributes": {"type": "alternative"}
             }
         ],
         "name": "authority",
