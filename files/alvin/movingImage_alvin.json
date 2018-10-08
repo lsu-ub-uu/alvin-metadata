@@ -152,6 +152,24 @@
                     "name": "title"
                 },
                 {
+                    "repeatId": "5",
+                    "children": [
+                        {
+                            "name": "type",
+                            "value": "alternative"
+                        },
+                        {
+                            "name": "mainTitle",
+                            "value": "sf"
+                        },
+                        {
+                            "name": "subTitle",
+                            "value": "sf"
+                        }
+                    ],
+                    "name": "alternativeTitle"
+                },
+                {
                     "name": "typeOfLicensing",
                     "value": "typeOfLicensingInCopyright"
                 },
@@ -338,6 +356,29 @@
                                 {
                                     "name": "tsUpdated",
                                     "value": "2018-09-26 13:40:50.142"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "6",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-08 12:13:11.860"
                                 }
                             ],
                             "name": "updated"
