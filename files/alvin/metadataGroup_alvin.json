@@ -10476,6 +10476,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:56:05.857"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -10588,7 +10611,7 @@
                                         },
                                         {
                                             "name": "linkedRecordId",
-                                            "value": "namePartNameGroup"
+                                            "value": "namePlacePartNameGroup"
                                         }
                                     ],
                                     "name": "ref"
