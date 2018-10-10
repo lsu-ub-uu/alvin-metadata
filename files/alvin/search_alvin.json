@@ -310,7 +310,7 @@
                         },
                         {
                             "name": "linkedRecordId",
-                            "value": "placeAutocompleteSearchGroup"
+                            "value": "placeSearchGroup"
                         }
                     ],
                     "name": "metadataId"
@@ -478,6 +478,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 10:49:06.799"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -490,7 +513,7 @@
                         },
                         {
                             "name": "linkedRecordId",
-                            "value": "placeAutocompleteSearchPGroup"
+                            "value": "placeSearchPGroup"
                         }
                     ],
                     "name": "presentationId"

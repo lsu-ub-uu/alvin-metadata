@@ -522,19 +522,6 @@
                 {
                     "children": [
                         {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "alvin"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
                             "name": "id",
                             "value": "coraUser:5368244264733286"
                         },
@@ -565,6 +552,19 @@
                             "name": "createdBy"
                         },
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
                             "name": "tsCreated",
                             "value": "2018-10-01 12:55:59.864"
                         },
@@ -587,6 +587,52 @@
                                 {
                                     "name": "tsUpdated",
                                     "value": "2018-10-01 12:55:59.864"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 10:41:29.651"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 10:46:59.654"
                                 }
                             ],
                             "name": "updated"
@@ -618,6 +664,49 @@
                                 {
                                     "name": "linkedRecordId",
                                     "value": "guest"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
+                    "name": "userRole"
+                },
+                {
+                    "repeatId": "1",
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvinGuest"
                                 }
                             ],
                             "name": "userRole"

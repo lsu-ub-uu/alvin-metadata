@@ -157,6 +157,283 @@
                 {
                     "children": [
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "id",
+                            "value": "place:9597693150990"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "place"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412566252284358"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-10 12:42:27.888"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 12:42:27.888"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "children": [{
+                            "name": "value",
+                            "value": "Kristianstad"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "defaultName"}
+                    }],
+                    "name": "name",
+                    "attributes": {"type": "authorized"}
+                },
+                {
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "language",
+                            "value": "dan"
+                        },
+                        {
+                            "children": [{
+                                "name": "value",
+                                "value": "Christianstad"
+                            }],
+                            "name": "namePart",
+                            "attributes": {"type": "defaultName"}
+                        }
+                    ],
+                    "name": "name",
+                    "attributes": {"type": "alternative"}
+                },
+                {
+                    "name": "country",
+                    "value": "SE"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "latitude",
+                            "value": "56.033333"
+                        },
+                        {
+                            "name": "longitude",
+                            "value": "14.15"
+                        }
+                    ],
+                    "name": "coordinates"
+                }
+            ],
+            "name": "authority",
+            "attributes": {"type": "place"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "id",
+                            "value": "place:10028109758839"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "place"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412566252284358"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-10 12:49:38.304"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 12:49:38.304"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "children": [{
+                            "name": "value",
+                            "value": "Malmö"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "defaultName"}
+                    }],
+                    "name": "name",
+                    "attributes": {"type": "authorized"}
+                },
+                {
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "language",
+                            "value": "9fd"
+                        },
+                        {
+                            "children": [{
+                                "name": "value",
+                                "value": "Malmoghe"
+                            }],
+                            "name": "namePart",
+                            "attributes": {"type": "defaultName"}
+                        }
+                    ],
+                    "name": "name",
+                    "attributes": {"type": "alternative"}
+                },
+                {
+                    "name": "country",
+                    "value": "SE"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "latitude",
+                            "value": "55.593189"
+                        },
+                        {
+                            "name": "longitude",
+                            "value": "13.021423"
+                        }
+                    ],
+                    "name": "coordinates"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [
+                        {
+                            "name": "language",
+                            "value": "9fd"
+                        },
+                        {
+                            "children": [{
+                                "name": "value",
+                                "value": "Malmhauge"
+                            }],
+                            "name": "namePart",
+                            "attributes": {"type": "defaultName"}
+                        }
+                    ],
+                    "name": "name",
+                    "attributes": {"type": "alternative"}
+                }
+            ],
+            "name": "authority",
+            "attributes": {"type": "place"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
                             "name": "id",
                             "value": "place:4234051631812124"
                         },
@@ -451,137 +728,6 @@
                         }
                     ],
                     "name": "coordinates"
-                }
-            ],
-            "name": "authority",
-            "attributes": {"type": "place"}
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "alvin"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "name": "id",
-                            "value": "place:366590777472348"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "place"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "user"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraUser:4412566252284358"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-10-08 14:40:53.968"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-08 14:40:53.968"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "children": [{
-                        "children": [{
-                            "name": "value",
-                            "value": "ghhghghgh"
-                        }],
-                        "name": "namePart",
-                        "attributes": {"type": "defaultName"}
-                    }],
-                    "name": "name",
-                    "attributes": {"type": "authorized"}
-                },
-                {
-                    "repeatId": "0",
-                    "children": [
-                        {
-                            "name": "language",
-                            "value": "alg"
-                        },
-                        {
-                            "children": [{
-                                "name": "value",
-                                "value": "hjhjjhjhjhjhj"
-                            }],
-                            "name": "namePart",
-                            "attributes": {"type": "defaultName"}
-                        }
-                    ],
-                    "name": "name",
-                    "attributes": {"type": "alternative"}
-                },
-                {
-                    "repeatId": "2",
-                    "children": [
-                        {
-                            "name": "language",
-                            "value": "alg"
-                        },
-                        {
-                            "children": [{
-                                "name": "value",
-                                "value": "hghghghghghghghghgh"
-                            }],
-                            "name": "namePart",
-                            "attributes": {"type": "defaultName"}
-                        }
-                    ],
-                    "name": "name",
-                    "attributes": {"type": "alternative"}
                 }
             ],
             "name": "authority",
