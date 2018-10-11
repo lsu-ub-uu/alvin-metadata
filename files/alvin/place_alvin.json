@@ -96,6 +96,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-11 11:14:55.505"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -113,28 +136,11 @@
                     "attributes": {"type": "authorized"}
                 },
                 {
-                    "children": [
-                        {
-                            "name": "latitude",
-                            "value": "60.874444"
-                        },
-                        {
-                            "name": "longitude",
-                            "value": "16.7"
-                        }
-                    ],
-                    "name": "coordinates"
-                },
-                {
-                    "name": "country",
-                    "value": "SE"
-                },
-                {
                     "repeatId": "0",
                     "children": [
                         {
                             "name": "language",
-                            "value": "swe"
+                            "value": "chu"
                         },
                         {
                             "children": [{
@@ -147,6 +153,23 @@
                     ],
                     "name": "name",
                     "attributes": {"type": "alternative"}
+                },
+                {
+                    "children": [
+                        {
+                            "name": "latitude",
+                            "value": "60.874444"
+                        },
+                        {
+                            "name": "longitude",
+                            "value": "16.70000"
+                        }
+                    ],
+                    "name": "coordinates"
+                },
+                {
+                    "name": "country",
+                    "value": "SE"
                 }
             ],
             "name": "authority",
