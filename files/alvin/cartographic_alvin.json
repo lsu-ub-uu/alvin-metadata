@@ -1,486 +1,174 @@
 {
-    "children": [
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "cartographic:5458495424366488"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "cartographic"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "user"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraUser:4412566252284358"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "alvin"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-10-02 14:00:11.023"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-02 14:00:11.023"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "1",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-03 08:16:13.166"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "2",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-03 08:56:17.725"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "3",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-11 14:08:55.485"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "4",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-15 11:39:54.864"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "5",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-15 11:41:18.197"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "6",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-15 11:42:03.912"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "7",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-15 12:09:05.004"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "name": "manuscript",
-                    "value": "no"
-                },
-                {
-                    "name": "collection",
-                    "value": "no"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "mainTitle",
-                            "value": "Plan af Stockholm med dess malmar"
-                        },
-                        {
-                            "name": "subTitle",
-                            "value": "af Fred. Akrel"
-                        }
-                    ],
-                    "name": "title"
-                },
-                {
-                    "repeatId": "4",
-                    "children": [
-                        {
-                            "name": "type",
-                            "value": "alternative"
-                        },
-                        {
-                            "name": "mainTitle",
-                            "value": "Plan av Stockholm med dess malmar"
-                        },
-                        {
-                            "name": "subTitle",
-                            "value": "av Fred. Akrel"
-                        }
-                    ],
-                    "name": "alternativeTitle"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "collection",
-                            "value": "bibsysCollection"
-                        },
-                        {
-                            "name": "sigel",
-                            "value": "sigelUKA"
-                        },
-                        {
-                            "name": "subLocation",
-                            "value": "Avdelning"
-                        },
-                        {
-                            "name": "shelfmark",
-                            "value": "Signum"
-                        },
-                        {
-                            "repeatId": "0",
-                            "name": "previousShelfmark",
-                            "value": "Tidigare signum"
-                        },
-                        {
-                            "name": "note",
-                            "value": "Anmärkning"
-                        }
-                    ],
-                    "name": "physicalLocation"
-                }
-            ],
-            "name": "cartographic"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "cartographic:5458296305015169"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "cartographic"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "user"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraUser:4412566252284358"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "alvin"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-10-02 13:56:51.904"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-02 13:56:51.904"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "1",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-15 12:26:37.074"
-                                }
-                            ],
-                            "name": "updated"
-                        },
-                        {
-                            "repeatId": "2",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412566252284358"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-15 12:52:24.496"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "name": "manuscript",
-                    "value": "yes"
-                },
-                {
-                    "name": "collection",
-                    "value": "yes"
-                },
-                {
-                    "children": [{
-                        "name": "mainTitle",
-                        "value": "TTTTTTTT"
-                    }],
-                    "name": "title"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "collection",
-                            "value": "alvinCollection"
-                        },
-                        {
-                            "name": "sigel",
-                            "value": "sigelUKA"
-                        },
-                        {
-                            "name": "subLocation",
-                            "value": "avdelning"
-                        },
-                        {
-                            "name": "shelfmark",
-                            "value": "signum"
-                        },
-                        {
-                            "repeatId": "0",
-                            "name": "previousShelfmark",
-                            "value": "ts"
-                        },
-                        {
-                            "name": "note",
-                            "value": "anmärkning"
-                        }
-                    ],
-                    "name": "physicalLocation"
-                }
-            ],
-            "name": "cartographic"
-        }
-    ],
+    "children": [{
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "id",
+                        "value": "cartographic:5458296305015169"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "recordType"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "cartographic"
+                            }
+                        ],
+                        "name": "type"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "user"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "coraUser:4412566252284358"
+                            }
+                        ],
+                        "name": "createdBy"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "alvin"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
+                        "name": "tsCreated",
+                        "value": "2018-10-02 13:56:51.904"
+                    },
+                    {
+                        "repeatId": "0",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-02 13:56:51.904"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-15 12:26:37.074"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "2",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-15 12:52:24.496"
+                            }
+                        ],
+                        "name": "updated"
+                    }
+                ],
+                "name": "recordInfo"
+            },
+            {
+                "name": "manuscript",
+                "value": "yes"
+            },
+            {
+                "name": "collection",
+                "value": "yes"
+            },
+            {
+                "children": [{
+                    "name": "mainTitle",
+                    "value": "TTTTTTTT"
+                }],
+                "name": "title"
+            },
+            {
+                "children": [
+                    {
+                        "name": "collection",
+                        "value": "alvinCollection"
+                    },
+                    {
+                        "name": "sigel",
+                        "value": "sigelUKA"
+                    },
+                    {
+                        "name": "subLocation",
+                        "value": "avdelning"
+                    },
+                    {
+                        "name": "shelfmark",
+                        "value": "signum"
+                    },
+                    {
+                        "repeatId": "0",
+                        "name": "previousShelfmark",
+                        "value": "ts"
+                    },
+                    {
+                        "name": "note",
+                        "value": "anmärkning"
+                    }
+                ],
+                "name": "physicalLocation"
+            }
+        ],
+        "name": "cartographic"
+    }],
     "name": "recordList"
 }

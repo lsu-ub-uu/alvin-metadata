@@ -13912,6 +13912,201 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "eventTypeCollection"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "metadataItemCollection"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2017-10-01 00:00:00.0"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        },
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "systemOneUser"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2017-11-01 18:00:00.0"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 09:38:46.213"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "nameInData",
+                    "value": "type"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "eventTypeCollectionText"
+                        }
+                    ],
+                    "name": "textId"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "eventTypeCollectionDefText"
+                        }
+                    ],
+                    "name": "defTextId"
+                },
+                {
+                    "children": [
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "birthItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "deathItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "originItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "excavationItem"
+                                }
+                            ],
+                            "name": "ref"
+                        }
+                    ],
+                    "name": "collectionItemReferences"
+                }
+            ],
+            "name": "metadata",
+            "attributes": {"type": "itemCollection"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "partTypeCollection"
                         },
                         {

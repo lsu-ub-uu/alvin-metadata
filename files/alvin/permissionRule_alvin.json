@@ -119,6 +119,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "4",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 07:36:57.144"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -183,6 +206,11 @@
                             "repeatId": "13",
                             "name": "permissionRulePartValue",
                             "value": "system.movingImage"
+                        },
+                        {
+                            "repeatId": "14",
+                            "name": "permissionRulePartValue",
+                            "value": "system.locationUnit"
                         }
                     ],
                     "name": "permissionRulePart",

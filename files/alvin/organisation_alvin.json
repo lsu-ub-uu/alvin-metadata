@@ -1,0 +1,130 @@
+{
+    "children": [{
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "alvin"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
+                        "name": "id",
+                        "value": "organisation:438532482023020"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "recordType"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "organisation"
+                            }
+                        ],
+                        "name": "type"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "user"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "coraUser:4412566252284358"
+                            }
+                        ],
+                        "name": "createdBy"
+                    },
+                    {
+                        "name": "tsCreated",
+                        "value": "2018-10-16 09:10:26.690"
+                    },
+                    {
+                        "repeatId": "0",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-16 09:10:26.690"
+                            }
+                        ],
+                        "name": "updated"
+                    }
+                ],
+                "name": "recordInfo"
+            },
+            {
+                "children": [
+                    {
+                        "children": [{
+                            "name": "value",
+                            "value": "Skynet"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "organisationName"}
+                    },
+                    {
+                        "children": [{
+                            "name": "value",
+                            "value": "Terminator department"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "subOrganisationName"}
+                    },
+                    {
+                        "children": [{
+                            "name": "value",
+                            "value": "Extermination squad"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "addition"}
+                    }
+                ],
+                "name": "name",
+                "attributes": {"type": "authorized"}
+            },
+            {
+                "children": [{
+                    "children": [
+                        {
+                            "name": "yearOfEstablishment",
+                            "value": "2004"
+                        },
+                        {
+                            "name": "yearOfDisestablishment",
+                            "value": "2032"
+                        }
+                    ],
+                    "name": "establishmentPeriod"
+                }],
+                "name": "datePeriod"
+            }
+        ],
+        "name": "authority",
+        "attributes": {"type": "organisation"}
+    }],
+    "name": "recordList"
+}
