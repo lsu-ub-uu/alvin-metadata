@@ -14158,19 +14158,6 @@
                             "children": [
                                 {
                                     "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "alvin"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
                                     "value": "recordType"
                                 },
                                 {
@@ -14192,6 +14179,19 @@
                                 }
                             ],
                             "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "alvin"
+                                }
+                            ],
+                            "name": "dataDivider"
                         },
                         {
                             "name": "tsCreated",
@@ -14216,6 +14216,29 @@
                                 {
                                     "name": "tsUpdated",
                                     "value": "2018-09-17 11:11:26.351"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 12:08:58.362"
                                 }
                             ],
                             "name": "updated"
@@ -14244,24 +14267,30 @@
                     "children": [
                         {
                             "repeatId": "0",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "identifierPlaceGroupText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "identifierPlaceGroupText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "textStyle",
+                                    "value": "h2TextStyle"
+                                }
+                            ],
                             "name": "childReference"
                         },
                         {
@@ -19181,6 +19210,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 11:13:11.188"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -19229,6 +19281,10 @@
                                         "attributes": {"type": "presentation"}
                                     }],
                                     "name": "refGroup"
+                                },
+                                {
+                                    "name": "textStyle",
+                                    "value": "h1TextStyle"
                                 }
                             ],
                             "name": "childReference"
@@ -19258,6 +19314,10 @@
                                         "attributes": {"type": "presentation"}
                                     }],
                                     "name": "refGroup"
+                                },
+                                {
+                                    "name": "textStyle",
+                                    "value": "h1TextStyle"
                                 }
                             ],
                             "name": "childReference"
