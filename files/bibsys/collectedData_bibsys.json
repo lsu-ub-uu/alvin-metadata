@@ -287,32 +287,6 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "102",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
-                    "value": "writtenTextGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "bibliographic"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "bibsys"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
             "repeatId": "123",
             "children": [
                 {

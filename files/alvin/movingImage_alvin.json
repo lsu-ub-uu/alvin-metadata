@@ -148,9 +148,80 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412566252284358"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-18 14:24:34.532"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "children": [
+                            {
+                                "children": [{
+                                    "children": [
+                                        {
+                                            "name": "year",
+                                            "value": "2018"
+                                        },
+                                        {
+                                            "name": "month",
+                                            "value": "01"
+                                        },
+                                        {
+                                            "name": "day",
+                                            "value": "19"
+                                        }
+                                    ],
+                                    "name": "date"
+                                }],
+                                "name": "startDate"
+                            },
+                            {
+                                "children": [{
+                                    "children": [
+                                        {
+                                            "name": "year",
+                                            "value": "2018"
+                                        },
+                                        {
+                                            "name": "month",
+                                            "value": "01"
+                                        },
+                                        {
+                                            "name": "day",
+                                            "value": "20"
+                                        }
+                                    ],
+                                    "name": "date"
+                                }],
+                                "name": "endDate"
+                            }
+                        ],
+                        "name": "originDate"
+                    }],
+                    "name": "origin"
                 }
             ],
             "name": "movingImage"

@@ -667,7 +667,7 @@
                 },
                 {
                     "name": "value",
-                    "value": "weightUnits"
+                    "value": "weight"
                 },
                 {
                     "name": "dataDivider",
@@ -1249,7 +1249,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "103",
+            "repeatId": "102",
             "children": [
                 {
                     "name": "type",
@@ -1266,6 +1266,32 @@
                 {
                     "name": "value",
                     "value": "identifierLocalGroup"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "alvin"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "103",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "writtenTextGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "bibliographic"
                 },
                 {
                     "name": "dataDivider",
