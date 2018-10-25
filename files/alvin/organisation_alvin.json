@@ -4,19 +4,6 @@
             {
                 "children": [
                     {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "alvin"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
                         "name": "id",
                         "value": "organisation:438532482023020"
                     },
@@ -47,6 +34,19 @@
                         "name": "createdBy"
                     },
                     {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "alvin"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
                         "name": "tsCreated",
                         "value": "2018-10-16 09:10:26.690"
                     },
@@ -69,6 +69,29 @@
                             {
                                 "name": "tsUpdated",
                                 "value": "2018-10-16 09:10:26.690"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412566252284358"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-23 09:56:30.746"
                             }
                         ],
                         "name": "updated"
@@ -121,6 +144,29 @@
                     "name": "establishmentPeriod"
                 }],
                 "name": "datePeriod"
+            },
+            {
+                "repeatId": "0",
+                "children": [
+                    {
+                        "name": "language",
+                        "value": "eng"
+                    },
+                    {
+                        "children": [{
+                            "name": "value",
+                            "value": "Cyberdyne Systems"
+                        }],
+                        "name": "namePart",
+                        "attributes": {"type": "organisationName"}
+                    },
+                    {
+                        "name": "nameType",
+                        "value": "other"
+                    }
+                ],
+                "name": "name",
+                "attributes": {"type": "alternative"}
             }
         ],
         "name": "authority",
