@@ -26,7 +26,7 @@
 	</parent>
 
 	<artifactId>alvin-metadata</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>alvin-metadata</name>
@@ -36,7 +36,7 @@
 		<connection>scm:git:https://github.com/lsu-ub-uu/alvin-metadata.git</connection>
 		<developerConnection>scm:git:https://github.com/lsu-ub-uu/alvin-metadata.git</developerConnection>
 		<url>https://github.com/lsu-ub-uu/alvin-metadata.git</url>
-	  <tag>alvin-metadata-1.0.0</tag>
+	  <tag>release/1.0</tag>
   </scm>
 
 
