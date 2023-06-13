@@ -15036,6 +15036,7 @@ permissionRole	alvinGuestRole	user	141414
 permissionRole	alvinGuestRole	validationType	permissionRole
 permissionRole	alvinSystemAdminRole	permissionRule	alvinSystemAdminRule
 permissionRole	alvinSystemAdminRole	permissionRule	appTokenCreate
+permissionRole	alvinSystemAdminRole	permissionRule	metadataUser
 permissionRole	alvinSystemAdminRole	recordType	permissionRole
 permissionRole	alvinSystemAdminRole	system	alvin
 permissionRole	alvinSystemAdminRole	text	alvinSystemAdminRoleDefText
@@ -23573,6 +23574,14 @@ system	alvin	recordType	system
 system	alvin	system	alvin
 system	alvin	user	141414
 system	alvin	validationType	system
+system	alvinProdSystem	recordType	system
+system	alvinProdSystem	system	alvin
+system	alvinProdSystem	user	141414
+system	alvinProdSystem	validationType	system
+system	alvinTestSystem	recordType	system
+system	alvinTestSystem	system	alvin
+system	alvinTestSystem	user	141414
+system	alvinTestSystem	validationType	system
 text	9fdLanguageItemDefText	recordType	text
 text	9fdLanguageItemDefText	system	alvin
 text	9fdLanguageItemDefText	user	141414
@@ -41765,8 +41774,10 @@ text	zzaLanguageItemText	system	alvin
 text	zzaLanguageItemText	user	141414
 text	zzaLanguageItemText	validationType	coraText
 user	151515	appToken	appToken:90136327944573
+user	151515	collectTerm	systemPermissionTerm
 user	151515	permissionRole	alvinSystemAdminRole
 user	151515	permissionRole	binaryUserRole
+user	151515	permissionRole	metadataAdmin
 user	151515	permissionRole	userAdminRole
 user	151515	recordType	user
 user	151515	system	alvin
