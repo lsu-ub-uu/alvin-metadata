@@ -40697,10 +40697,6 @@ text	trackItemText	recordType	text
 text	trackItemText	system	alvin
 text	trackItemText	user	141414
 text	trackItemText	validationType	coraText
-text	tramsText	recordType	text
-text	tramsText	system	alvin
-text	tramsText	user	151515
-text	tramsText	validationType	alvinText
 text	transcriptionTextVarDefText	recordType	text
 text	transcriptionTextVarDefText	system	alvin
 text	transcriptionTextVarDefText	user	141414
