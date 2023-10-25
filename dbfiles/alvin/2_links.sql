@@ -5063,6 +5063,7 @@ metadata	dayTextVar	system	alvin
 metadata	dayTextVar	text	dayTextVarDefText
 metadata	dayTextVar	text	dayTextVarText
 metadata	dayTextVar	user	141414
+metadata	dayTextVar	user	151515
 metadata	dayTextVar	user	coraUser:4412566252284358
 metadata	dayTextVar	validationType	metadataTextVariable
 metadata	ddrHistoricCountryItem	recordType	metadata
@@ -9618,6 +9619,7 @@ metadata	monthTextVar	system	alvin
 metadata	monthTextVar	text	monthTextVarDefText
 metadata	monthTextVar	text	monthTextVarText
 metadata	monthTextVar	user	141414
+metadata	monthTextVar	user	151515
 metadata	monthTextVar	user	coraUser:4412566252284358
 metadata	monthTextVar	validationType	metadataTextVariable
 metadata	mosLanguageItem	recordType	metadata
@@ -15065,6 +15067,7 @@ metadata	yearTextVar	system	alvin
 metadata	yearTextVar	text	yearTextVarDefText
 metadata	yearTextVar	text	yearTextVarText
 metadata	yearTextVar	user	141414
+metadata	yearTextVar	user	151515
 metadata	yearTextVar	user	coraUser:4412566252284358
 metadata	yearTextVar	validationType	metadataTextVariable
 metadata	yeCountryItem	recordType	metadata
