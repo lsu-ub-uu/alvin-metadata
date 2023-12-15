@@ -4,6 +4,7 @@ alvin-location	1234	recordType	alvin-location
 alvin-location	1234	system	alvin
 alvin-location	1234	user	151515
 alvin-location	1234	validationType	location
+alvin-organisation	1234	alvin-place	1234
 alvin-organisation	1234	recordType	alvin-organisation
 alvin-organisation	1234	system	alvin
 alvin-organisation	1234	user	151515
@@ -16637,6 +16638,8 @@ presentation	dateOutputPGroup	presentation	monthOutputPVar
 presentation	dateOutputPGroup	presentation	yearOutputPVar
 presentation	dateOutputPGroup	recordType	presentation
 presentation	dateOutputPGroup	system	alvin
+presentation	dateOutputPGroup	text	blankSpaceText
+presentation	dateOutputPGroup	text	dashText
 presentation	dateOutputPGroup	user	141414
 presentation	dateOutputPGroup	user	151515
 presentation	dateOutputPGroup	user	coraUser:4412566252284358
@@ -24475,6 +24478,10 @@ text	blaLanguageItemText	recordType	text
 text	blaLanguageItemText	system	alvin
 text	blaLanguageItemText	user	141414
 text	blaLanguageItemText	validationType	coraText
+text	blankSpaceText	recordType	text
+text	blankSpaceText	system	alvin
+text	blankSpaceText	user	151515
+text	blankSpaceText	validationType	alvinText
 text	blueItemDefText	recordType	text
 text	blueItemDefText	system	alvin
 text	blueItemDefText	user	141414
@@ -27944,8 +27951,9 @@ text	darLanguageItemText	validationType	coraText
 text	dashText	recordType	text
 text	dashText	system	alvin
 text	dashText	user	141414
+text	dashText	user	151515
 text	dashText	user	coraUser:4412566252284358
-text	dashText	validationType	coraText
+text	dashText	validationType	alvinText
 text	dataDividerAlvinLinkDefText	recordType	text
 text	dataDividerAlvinLinkDefText	system	alvin
 text	dataDividerAlvinLinkDefText	user	141414
