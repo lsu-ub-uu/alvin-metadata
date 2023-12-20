@@ -4,11 +4,17 @@ alvin-location	1234	recordType	alvin-location
 alvin-location	1234	system	alvin
 alvin-location	1234	user	151515
 alvin-location	1234	validationType	location
+alvin-organisation	1234	alvin-organisation	1234
+alvin-organisation	1234	alvin-organisation	5678
 alvin-organisation	1234	alvin-place	1234
 alvin-organisation	1234	recordType	alvin-organisation
 alvin-organisation	1234	system	alvin
 alvin-organisation	1234	user	151515
 alvin-organisation	1234	validationType	organisation
+alvin-organisation	5678	recordType	alvin-organisation
+alvin-organisation	5678	system	alvin
+alvin-organisation	5678	user	151515
+alvin-organisation	5678	validationType	organisation
 alvin-person	1234	alvin-organisation	1234
 alvin-person	1234	alvin-person	5678
 alvin-person	1234	alvin-place	1234
@@ -18020,6 +18026,7 @@ presentation	locationInfoOutputPGroup	presentation	endDateOutputPGroup
 presentation	locationInfoOutputPGroup	presentation	startDateOutputPGroup
 presentation	locationInfoOutputPGroup	recordType	presentation
 presentation	locationInfoOutputPGroup	system	alvin
+presentation	locationInfoOutputPGroup	text	blankSpaceText
 presentation	locationInfoOutputPGroup	user	151515
 presentation	locationInfoOutputPGroup	validationType	presentationGroup
 presentation	locationInfoPGroup	metadata	locationInfoGroup
@@ -18084,6 +18091,7 @@ presentation	locationOutputPGroup	presentation	recordInfoAlvinOutputPGroup
 presentation	locationOutputPGroup	presentation	summaryWithLangOutputPVar
 presentation	locationOutputPGroup	recordType	presentation
 presentation	locationOutputPGroup	system	alvin
+presentation	locationOutputPGroup	text	blankSpaceText
 presentation	locationOutputPGroup	user	151515
 presentation	locationOutputPGroup	validationType	presentationGroup
 presentation	locationPGroup	metadata	locationGroup
@@ -19464,6 +19472,7 @@ presentation	organisationInfoOutputPGroup	presentation	endDateOutputPGroup
 presentation	organisationInfoOutputPGroup	presentation	startDateOutputPGroup
 presentation	organisationInfoOutputPGroup	recordType	presentation
 presentation	organisationInfoOutputPGroup	system	alvin
+presentation	organisationInfoOutputPGroup	text	blankSpaceText
 presentation	organisationInfoOutputPGroup	user	151515
 presentation	organisationInfoOutputPGroup	validationType	presentationGroup
 presentation	organisationInfoPGroup	metadata	organisationInfoGroup
@@ -19546,6 +19555,8 @@ presentation	organisationOutputPGroup	presentation	relatedOrganisationTypeOutput
 presentation	organisationOutputPGroup	presentation	variantOrganisationOutputPGroup
 presentation	organisationOutputPGroup	recordType	presentation
 presentation	organisationOutputPGroup	system	alvin
+presentation	organisationOutputPGroup	text	blankSpaceText
+presentation	organisationOutputPGroup	text	otherInformationHeadlineText
 presentation	organisationOutputPGroup	user	12345
 presentation	organisationOutputPGroup	user	141414
 presentation	organisationOutputPGroup	user	151515
@@ -20964,7 +20975,7 @@ presentation	relatedOrganisationPGroup	system	alvin
 presentation	relatedOrganisationPGroup	user	151515
 presentation	relatedOrganisationPGroup	validationType	presentationGroup
 presentation	relatedOrganisationTypeOutputPGroup	metadata	relatedOrganisationTypeGroup
-presentation	relatedOrganisationTypeOutputPGroup	presentation	organisationOutputPLink
+presentation	relatedOrganisationTypeOutputPGroup	presentation	organisationLinkOutputPLink
 presentation	relatedOrganisationTypeOutputPGroup	recordType	presentation
 presentation	relatedOrganisationTypeOutputPGroup	system	alvin
 presentation	relatedOrganisationTypeOutputPGroup	user	151515
