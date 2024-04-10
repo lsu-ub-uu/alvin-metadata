@@ -3,7 +3,7 @@
 baseDir="dbfiles"
 
 database="alvin"
-dataDividers="alvin"
+dataDividers="alvin  alvinPreview alvinTestSystem alvinProduction alvinData"
 
 start(){
 	echo "Running inside docker..."
