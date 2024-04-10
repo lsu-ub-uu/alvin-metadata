@@ -34450,6 +34450,7 @@ system	alvinProduction	validationType	system
 system	alvinTestSystem	recordType	system
 system	alvinTestSystem	system	alvin
 system	alvinTestSystem	user	141414
+system	alvinTestSystem	user	151515
 system	alvinTestSystem	validationType	system
 text	9auMarcRelatorItemDefText	recordType	text
 text	9auMarcRelatorItemDefText	system	alvin
