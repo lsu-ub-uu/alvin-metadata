@@ -1,4 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+alvin-location	3	alvin-place	679
+alvin-location	3	recordType	alvin-location
+alvin-location	3	system	alvin
+alvin-location	3	user	151515
+alvin-location	3	validationType	location
 alvin-organisation	1	recordType	alvin-organisation
 alvin-organisation	1	system	alvin
 alvin-organisation	1	user	151515
@@ -19,6 +24,11 @@ alvin-place	679	recordType	alvin-place
 alvin-place	679	system	alvin
 alvin-place	679	user	151515
 alvin-place	679	validationType	place
+alvin-record	1	alvin-location	3
+alvin-record	1	recordType	alvin-record
+alvin-record	1	system	alvin
+alvin-record	1	user	151515
+alvin-record	1	validationType	record
 alvin-work	1	alvin-place	679
 alvin-work	1	recordType	alvin-work
 alvin-work	1	system	alvin
@@ -5076,8 +5086,8 @@ metadata	conservationStateCollection	validationType	metadataItemCollection
 metadata	conservationStateCollectionVar	metadata	conservationStateCollection
 metadata	conservationStateCollectionVar	recordType	metadata
 metadata	conservationStateCollectionVar	system	alvin
-metadata	conservationStateCollectionVar	text	conservationStateCollectionVarDefText
-metadata	conservationStateCollectionVar	text	conservationStateCollectionVarText
+metadata	conservationStateCollectionVar	text	conservationStateCollectionDefText
+metadata	conservationStateCollectionVar	text	conservationStateCollectionText
 metadata	conservationStateCollectionVar	user	151515
 metadata	conservationStateCollectionVar	validationType	metadataCollectionVariable
 metadata	constituentItem	recordType	metadata
@@ -10873,7 +10883,6 @@ metadata	identifierTypeCollectionVar	text	identifierTypeCollectionText
 metadata	identifierTypeCollectionVar	user	151515
 metadata	identifierTypeCollectionVar	validationType	metadataCollectionVariable
 metadata	identifierTypeLocationCollection	metadata	domainNameItem
-metadata	identifierTypeLocationCollection	metadata	ksamsokItem
 metadata	identifierTypeLocationCollection	recordType	metadata
 metadata	identifierTypeLocationCollection	system	alvin
 metadata	identifierTypeLocationCollection	text	identifierTypeLocationCollectionDefText
@@ -29707,9 +29716,7 @@ presentation	recordInfoNewRecordOutputPGroup	system	alvin
 presentation	recordInfoNewRecordOutputPGroup	user	151515
 presentation	recordInfoNewRecordOutputPGroup	validationType	presentationGroup
 presentation	recordInfoNewRecordPGroup	metadata	recordInfoNewRecordGroup
-presentation	recordInfoNewRecordPGroup	presentation	dataDividerAlvinPLink
 presentation	recordInfoNewRecordPGroup	presentation	idAlvinPVar
-presentation	recordInfoNewRecordPGroup	presentation	validationTypePlacePLink
 presentation	recordInfoNewRecordPGroup	recordType	presentation
 presentation	recordInfoNewRecordPGroup	system	alvin
 presentation	recordInfoNewRecordPGroup	user	151515
@@ -29997,7 +30004,8 @@ presentation	recordOutputPGroup	presentation	physicalDescriptionOutputPGroup
 presentation	recordOutputPGroup	presentation	physicalLocationOutputPGroup
 presentation	recordOutputPGroup	presentation	productionMethodOutputPCollVar
 presentation	recordOutputPGroup	presentation	publicationOutputPVar
-presentation	recordOutputPGroup	presentation	recordInfoAlvinRecordOutputPGroup
+presentation	recordOutputPGroup	presentation	recordInfoAlvinDatesOutputPGroup
+presentation	recordOutputPGroup	presentation	recordInfoAlvinOutputPGroup
 presentation	recordOutputPGroup	presentation	relatedmaterialOutputPVar
 presentation	recordOutputPGroup	presentation	relatedToOutputPGroup
 presentation	recordOutputPGroup	presentation	reverseOutputPGroup
@@ -30235,7 +30243,6 @@ presentation	recordUpdatePGroup	presentation	physicalDescriptionPGroup
 presentation	recordUpdatePGroup	presentation	physicalLocationPGroup
 presentation	recordUpdatePGroup	presentation	productionMethodPCollVar
 presentation	recordUpdatePGroup	presentation	publicationPVar
-presentation	recordUpdatePGroup	presentation	recordInfoAlvinRecordPGroup
 presentation	recordUpdatePGroup	presentation	relatedmaterialPVar
 presentation	recordUpdatePGroup	presentation	relatedToPGroup
 presentation	recordUpdatePGroup	presentation	reversePGroup
