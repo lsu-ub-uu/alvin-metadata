@@ -11,11 +11,11 @@ alvin-place	679	recordType	alvin-place
 alvin-place	679	system	alvinData
 alvin-place	679	user	151515
 alvin-place	679	validationType	place
-alvin-record	22	alvin-location	3
-alvin-record	22	recordType	alvin-record
-alvin-record	22	system	alvinData
-alvin-record	22	user	151515
-alvin-record	22	validationType	record
+alvin-record	1	alvin-location	3
+alvin-record	1	recordType	alvin-record
+alvin-record	1	system	alvinData
+alvin-record	1	user	151515
+alvin-record	1	validationType	record
 alvin-work	1	alvin-place	679
 alvin-work	1	recordType	alvin-work
 alvin-work	1	system	alvinData
