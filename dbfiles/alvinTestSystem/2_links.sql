@@ -34,6 +34,7 @@ login	uioTestLoginWR	validationType	loginWebRedirect
 login	uuTestLoginWR	recordType	login
 login	uuTestLoginWR	system	alvinTestSystem
 login	uuTestLoginWR	user	141414
+login	uuTestLoginWR	user	151515
 login	uuTestLoginWR	validationType	loginWebRedirect
 loginUnit	guTestLoginUnit	login	guTestLoginWR
 loginUnit	guTestLoginUnit	recordType	loginUnit

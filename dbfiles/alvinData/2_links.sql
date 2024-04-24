@@ -15,7 +15,7 @@ alvin-record	1	alvin-location	3
 alvin-record	1	recordType	alvin-record
 alvin-record	1	system	alvinData
 alvin-record	1	user	151515
-alvin-record	1	validationType	record
+alvin-record	1	validationType	recordArchive
 alvin-work	1	alvin-place	679
 alvin-work	1	recordType	alvin-work
 alvin-work	1	system	alvinData
