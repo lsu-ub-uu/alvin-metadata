@@ -2,6 +2,7 @@ COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
 login	uuProductionLoginWR	recordType	login
 login	uuProductionLoginWR	system	alvinProduction
 login	uuProductionLoginWR	user	141414
+login	uuProductionLoginWR	user	151515
 login	uuProductionLoginWR	validationType	loginWebRedirect
 loginUnit	uuProductionLoginUnit	login	uuProductionLoginWR
 loginUnit	uuProductionLoginUnit	recordType	loginUnit
