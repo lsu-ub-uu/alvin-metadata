@@ -8,6 +8,12 @@ alvin-organisation	1	recordType	alvin-organisation
 alvin-organisation	1	system	alvinData
 alvin-organisation	1	user	151515
 alvin-organisation	1	validationType	organisation
+alvin-organisation	2	alvin-organisation	1
+alvin-organisation	2	alvin-place	679
+alvin-organisation	2	recordType	alvin-organisation
+alvin-organisation	2	system	alvinData
+alvin-organisation	2	user	151515
+alvin-organisation	2	validationType	organisation
 alvin-person	1	recordType	alvin-person
 alvin-person	1	system	alvinData
 alvin-person	1	user	151515
@@ -16,6 +22,10 @@ alvin-place	679	recordType	alvin-place
 alvin-place	679	system	alvinData
 alvin-place	679	user	151515
 alvin-place	679	validationType	place
+alvin-place	9	recordType	alvin-place
+alvin-place	9	system	alvinData
+alvin-place	9	user	151515
+alvin-place	9	validationType	place
 alvin-record	15281	alvin-location	3
 alvin-record	15281	recordType	alvin-record
 alvin-record	15281	system	alvinData
@@ -33,3 +43,11 @@ alvin-work	31	recordType	alvin-work
 alvin-work	31	system	alvinData
 alvin-work	31	user	151515
 alvin-work	31	validationType	workMusic
+text	9DefText	recordType	text
+text	9DefText	system	alvinData
+text	9DefText	user	151515
+text	9DefText	validationType	coraText
+text	9Text	recordType	text
+text	9Text	system	alvinData
+text	9Text	user	151515
+text	9Text	validationType	coraText
