@@ -1,4 +1,14 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+login	uuPreviewLoginWR	recordType	login
+login	uuPreviewLoginWR	system	alvinPreview
+login	uuPreviewLoginWR	user	141414
+login	uuPreviewLoginWR	validationType	loginWebRedirect
+loginUnit	uuPreviewLoginUnit	login	uuPreviewLoginWR
+loginUnit	uuPreviewLoginUnit	recordType	loginUnit
+loginUnit	uuPreviewLoginUnit	system	alvinPreview
+loginUnit	uuPreviewLoginUnit	text	uuPreviewLoginUnitText
+loginUnit	uuPreviewLoginUnit	user	141414
+loginUnit	uuPreviewLoginUnit	validationType	loginUnit
 system	alvinPreview	recordType	system
 system	alvinPreview	system	alvinPreview
 system	alvinPreview	text	alvinPreviewDefText
@@ -13,3 +23,7 @@ text	alvinPreviewText	recordType	text
 text	alvinPreviewText	system	alvinPreview
 text	alvinPreviewText	user	151515
 text	alvinPreviewText	validationType	coraText
+text	uuPreviewLoginUnitText	recordType	text
+text	uuPreviewLoginUnitText	system	alvinPreview
+text	uuPreviewLoginUnitText	user	141414
+text	uuPreviewLoginUnitText	validationType	coraText
