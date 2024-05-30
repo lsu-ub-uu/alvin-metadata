@@ -58,6 +58,13 @@ alvin-work	31	recordType	alvin-work
 alvin-work	31	system	alvinData
 alvin-work	31	user	151515
 alvin-work	31	validationType	workMusic
+alvin-work	333	alvin-organisation	1
+alvin-work	333	alvin-person	1
+alvin-work	333	alvin-place	679
+alvin-work	333	recordType	alvin-work
+alvin-work	333	system	alvinData
+alvin-work	333	user	151515
+alvin-work	333	validationType	workMusic
 text	9DefText	recordType	text
 text	9DefText	system	alvinData
 text	9DefText	user	151515
