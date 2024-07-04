@@ -1,6 +1,6 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
-user	151515	userUserIdStorageTerm	alvinuser@cora.epc.ub.uu.se	userId
-user	coraUser:4412566252284358	userUserIdStorageTerm	alvinuser@cora.epc.ub.uu.se	userId
+user	151515	userUserIdStorageTerm	alvinAdmin@cora.epc.ub.uu.se	userId
+user	coraUser:4412566252284358	userUserIdStorageTerm	alvinUser@cora.epc.ub.uu.se	userId
 user	coraUser:5368244264733286	userUserIdStorageTerm	alvinguest@system.cora.uu.se	userId
 user	user:15433956012260219	userUserIdStorageTerm	stand516@user.uu.se	userId
 user	user:15433970434951913	userUserIdStorageTerm	petth315@user.uu.se	userId
