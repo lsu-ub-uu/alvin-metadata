@@ -3,7 +3,6 @@ user	151515	userUserIdStorageTerm	alvinAdmin@cora.epc.ub.uu.se	userId
 user	coraUser:4412566252284358	userUserIdStorageTerm	alvinUser@cora.epc.ub.uu.se	userId
 user	coraUser:5368244264733286	userUserIdStorageTerm	alvinguest@system.cora.uu.se	userId
 user	user:15433956012260219	userUserIdStorageTerm	stand516@user.uu.se	userId
-user	user:15433970434951913	userUserIdStorageTerm	petth315@user.uu.se	userId
 user	user:15433978782831024	userUserIdStorageTerm	olfel499@user.uu.se	userId
 user	user:15433987769554915	userUserIdStorageTerm	palra847@user.uu.se	userId
 user	user:15433995147185923	userUserIdStorageTerm	danfl648@user.uu.se	userId
