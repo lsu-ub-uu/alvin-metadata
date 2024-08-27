@@ -20,12 +20,15 @@ alvin-organisation	621	recordType	alvin-organisation
 alvin-organisation	621	system	alvinData
 alvin-organisation	621	user	151515
 alvin-organisation	621	validationType	organisation
-alvin-person	1	alvin-organisation	1
 alvin-person	1	alvin-person	303
 alvin-person	1	recordType	alvin-person
 alvin-person	1	system	alvinData
 alvin-person	1	user	151515
 alvin-person	1	validationType	person
+alvin-person	303	recordType	alvin-person
+alvin-person	303	system	alvinData
+alvin-person	303	user	151515
+alvin-person	303	validationType	person
 alvin-person	333	alvin-organisation	1
 alvin-person	333	alvin-person	1
 alvin-person	333	alvin-place	679
