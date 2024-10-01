@@ -31,6 +31,10 @@ alvin-person	1	recordType	alvin-person
 alvin-person	1	system	alvinData
 alvin-person	1	user	151515
 alvin-person	1	validationType	person
+alvin-person	2	recordType	alvin-person
+alvin-person	2	system	alvinData
+alvin-person	2	user	151515
+alvin-person	2	validationType	person
 alvin-person	303	recordType	alvin-person
 alvin-person	303	system	alvinData
 alvin-person	303	user	151515
@@ -55,6 +59,8 @@ alvin-record	15281	recordType	alvin-record
 alvin-record	15281	system	alvinData
 alvin-record	15281	user	151515
 alvin-record	15281	validationType	recordArtifactNumismatic
+alvin-work	1	alvin-organisation	1
+alvin-work	1	alvin-person	1
 alvin-work	1	alvin-place	679
 alvin-work	1	recordType	alvin-work
 alvin-work	1	system	alvinData
