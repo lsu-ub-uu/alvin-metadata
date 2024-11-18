@@ -39,6 +39,11 @@ alvin-record	1311	recordType	alvin-record
 alvin-record	1311	system	alvinData
 alvin-record	1311	user	151515
 alvin-record	1311	validationType	recordTextPrint
+alvin-record	1312	alvin-location	3
+alvin-record	1312	recordType	alvin-record
+alvin-record	1312	system	alvinData
+alvin-record	1312	user	151515
+alvin-record	1312	validationType	recordTextPrint
 alvin-work	1	alvin-organisation	1
 alvin-work	1	alvin-person	1
 alvin-work	1	alvin-place	679
