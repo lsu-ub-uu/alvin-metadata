@@ -12,6 +12,10 @@ alvin-person	1	recordType	alvin-person
 alvin-person	1	system	alvinData
 alvin-person	1	user	151515
 alvin-person	1	validationType	person
+alvin-person	2	recordType	alvin-person
+alvin-person	2	system	alvinData
+alvin-person	2	user	151515
+alvin-person	2	validationType	person
 alvin-person	303	recordType	alvin-person
 alvin-person	303	system	alvinData
 alvin-person	303	user	151515
