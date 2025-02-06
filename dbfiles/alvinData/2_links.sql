@@ -36,6 +36,11 @@ alvin-place	9	recordType	alvin-place
 alvin-place	9	system	alvinData
 alvin-place	9	user	151515
 alvin-place	9	validationType	place
+alvin-record	1	alvin-location	3
+alvin-record	1	recordType	alvin-record
+alvin-record	1	system	alvinData
+alvin-record	1	user	151515
+alvin-record	1	validationType	recordArtifactNumismatic
 alvin-work	1	alvin-organisation	1
 alvin-work	1	alvin-person	1
 alvin-work	1	alvin-place	679
