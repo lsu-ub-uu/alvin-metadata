@@ -66,6 +66,12 @@ alvin-work	333	recordType	alvin-work
 alvin-work	333	system	alvinData
 alvin-work	333	user	151515
 alvin-work	333	validationType	workMusic
+permissionUnit	3	alvin-location	3
+permissionUnit	3	recordType	permissionUnit
+permissionUnit	3	system	alvinData
+permissionUnit	3	text	permissionUnit3Text
+permissionUnit	3	user	151515
+permissionUnit	3	validationType	permissionUnit
 text	9DefText	recordType	text
 text	9DefText	system	alvinData
 text	9DefText	user	151515
