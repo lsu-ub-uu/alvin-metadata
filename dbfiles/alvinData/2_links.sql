@@ -39,6 +39,7 @@ alvin-place	9	validationType	place
 alvin-record	1234567890	alvin-location	3
 alvin-record	1234567890	alvin-person	1
 alvin-record	1234567890	alvin-place	2
+alvin-record	1234567890	binary	binary:4839417069500281
 alvin-record	1234567890	permissionUnit	3
 alvin-record	1234567890	recordType	alvin-record
 alvin-record	1234567890	system	alvinData
@@ -78,6 +79,11 @@ alvin-work	3333333333333	recordType	alvin-work
 alvin-work	3333333333333	system	alvinData
 alvin-work	3333333333333	user	151515
 alvin-work	3333333333333	validationType	workMusic
+binary	binary:4839417069500281	recordType	binary
+binary	binary:4839417069500281	system	alvinData
+binary	binary:4839417069500281	user	141414
+binary	binary:4839417069500281	user	151515
+binary	binary:4839417069500281	validationType	genericBinary
 permissionUnit	3	alvin-location	3
 permissionUnit	3	recordType	permissionUnit
 permissionUnit	3	system	alvinData
