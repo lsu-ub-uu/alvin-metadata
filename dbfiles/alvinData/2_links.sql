@@ -36,6 +36,12 @@ alvin-place	9	recordType	alvin-place
 alvin-place	9	system	alvinData
 alvin-place	9	user	151515
 alvin-place	9	validationType	place
+alvin-record	123456	alvin-location	3
+alvin-record	123456	permissionUnit	3
+alvin-record	123456	recordType	alvin-record
+alvin-record	123456	system	alvinData
+alvin-record	123456	user	151515
+alvin-record	123456	validationType	recordAudio
 alvin-record	1234567890	alvin-location	3
 alvin-record	1234567890	alvin-person	1
 alvin-record	1234567890	alvin-place	2
@@ -45,6 +51,12 @@ alvin-record	1234567890	recordType	alvin-record
 alvin-record	1234567890	system	alvinData
 alvin-record	1234567890	user	151515
 alvin-record	1234567890	validationType	record
+alvin-record	234567	alvin-location	3
+alvin-record	234567	permissionUnit	3
+alvin-record	234567	recordType	alvin-record
+alvin-record	234567	system	alvinData
+alvin-record	234567	user	151515
+alvin-record	234567	validationType	recordMovingImage
 alvin-work	1	alvin-organisation	1
 alvin-work	1	alvin-person	1
 alvin-work	1	alvin-place	679
