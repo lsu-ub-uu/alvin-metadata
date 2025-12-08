@@ -36,6 +36,12 @@ alvin-place	9	recordType	alvin-place
 alvin-place	9	system	alvinData
 alvin-place	9	user	151515
 alvin-place	9	validationType	place
+alvin-record	1	alvin-location	3
+alvin-record	1	permissionUnit	3
+alvin-record	1	recordType	alvin-record
+alvin-record	1	system	alvinData
+alvin-record	1	user	151515
+alvin-record	1	validationType	record
 alvin-record	1234567890	alvin-location	3
 alvin-record	1234567890	permissionUnit	3
 alvin-record	1234567890	recordType	alvin-record
