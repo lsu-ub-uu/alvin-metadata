@@ -111,6 +111,8 @@ user	user:2422721748622866	permissionRole	userAdminRole
 user	user:2422721748622866	permissionUnit	3
 user	user:2422721748622866	recordType	user
 user	user:2422721748622866	system	alvinData
+user	user:2422721748622866	systemSecret	systemSecret:2422750784931225
+user	user:2422721748622866	user	141414
 user	user:2422721748622866	user	151515
 user	user:2422721748622866	validationType	alvinUser
 user	user:5517150962293483	permissionRole	alvinAdminRole
@@ -119,5 +121,6 @@ user	user:5517150962293483	permissionUnit	cora
 user	user:5517150962293483	recordType	user
 user	user:5517150962293483	system	alvinData
 user	user:5517150962293483	systemSecret	systemSecret:5517314425878053
+user	user:5517150962293483	user	141414
 user	user:5517150962293483	user	151515
 user	user:5517150962293483	validationType	alvinUser
