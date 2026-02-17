@@ -4,7 +4,6 @@ user	coraUser:4412566252284358	userLoginIdStorageTerm	alvinUser@cora.epc.ub.uu.s
 user	coraUser:5368244264733286	userLoginIdStorageTerm	alvinguest@system.cora.uu.se	loginId
 user	user:15433956012260219	userLoginIdStorageTerm	stand516@user.uu.se	loginId
 user	user:15433978782831024	userLoginIdStorageTerm	olfel499@user.uu.se	loginId
-user	user:15433987769554915	userLoginIdStorageTerm	palra847@user.uu.se	loginId
 user	user:15434004521008966	userLoginIdStorageTerm	egisw290@user.uu.se	loginId
 user	user:15434020931125281	userLoginIdStorageTerm	kenan399@user.uu.se	loginId
 user	user:15434042351413533	userLoginIdStorageTerm	perba577@user.uu.se	loginId
