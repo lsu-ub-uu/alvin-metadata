@@ -30730,12 +30730,12 @@ presentation	alvinTextPGroup	presentation	textPartNoPGroup
 presentation	alvinTextPGroup	presentation	textPartSvPGroup
 presentation	alvinTextPGroup	recordType	presentation
 presentation	alvinTextPGroup	system	alvin
-presentation	alvinTextPGroup	text	alvinTextGroupText
 presentation	alvinTextPGroup	text	textPartEnGroupText
 presentation	alvinTextPGroup	text	textPartGroupsHeadlineText
 presentation	alvinTextPGroup	text	textPartNoGroupText
 presentation	alvinTextPGroup	text	textPartSvGroupText
 presentation	alvinTextPGroup	user	151515
+presentation	alvinTextPGroup	user	coraUser:4412566252284358
 presentation	alvinTextPGroup	validationType	presentationGroup
 presentation	alvinUserNewOutputPGroup	metadata	alvinUserNewGroup
 presentation	alvinUserNewOutputPGroup	presentation	activeStatusOutputPCollVar
@@ -73840,14 +73840,6 @@ text	stonewareItemText	recordType	text
 text	stonewareItemText	system	alvin
 text	stonewareItemText	user	151515
 text	stonewareItemText	validationType	alvinText
-text	streetTextVarDefText	recordType	text
-text	streetTextVarDefText	system	alvin
-text	streetTextVarDefText	user	141414
-text	streetTextVarDefText	validationType	alvinText
-text	streetTextVarText	recordType	text
-text	streetTextVarText	system	alvin
-text	streetTextVarText	user	141414
-text	streetTextVarText	validationType	alvinText
 text	stringsMusicMediumItemDefText	recordType	text
 text	stringsMusicMediumItemDefText	system	alvin
 text	stringsMusicMediumItemDefText	user	151515
@@ -79599,7 +79591,6 @@ user	151515	permissionUnit	3
 user	151515	permissionUnit	cora
 user	151515	recordType	user
 user	151515	system	alvin
-user	151515	systemSecret	systemSecret:1336041254956
 user	151515	user	131313
 user	151515	user	141414
 user	151515	validationType	systemOneUser
@@ -79614,7 +79605,6 @@ user	coraUser:4412566252284358	permissionUnit	3
 user	coraUser:4412566252284358	permissionUnit	cora
 user	coraUser:4412566252284358	recordType	user
 user	coraUser:4412566252284358	system	alvin
-user	coraUser:4412566252284358	systemSecret	systemSecret:1337352700841
 user	coraUser:4412566252284358	user	141414
 user	coraUser:4412566252284358	validationType	coraUser
 user	coraUser:5368244264733286	collectTerm	systemPermissionTerm
