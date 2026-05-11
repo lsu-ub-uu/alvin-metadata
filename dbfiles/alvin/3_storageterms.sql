@@ -8,5 +8,4 @@ user	user:15434004521008966	userLoginIdStorageTerm	egisw290@user.uu.se	loginId
 user	user:15434020931125281	userLoginIdStorageTerm	kenan399@user.uu.se	loginId
 user	user:15434042351413533	userLoginIdStorageTerm	perba577@user.uu.se	loginId
 user	user:15434048568374750	userLoginIdStorageTerm	marvi707@user.uu.se	loginId
-user	user:15434062266597036	userLoginIdStorageTerm	andma210@user.uu.se	loginId
 user	user:15434069887791758	userLoginIdStorageTerm	sarto903@user.uu.se	loginId
