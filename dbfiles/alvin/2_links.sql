@@ -26772,6 +26772,7 @@ metadata	subjectHeadingTypeTemporalItem	text	subjectHeadingTypeTemporalItemDefTe
 metadata	subjectHeadingTypeTemporalItem	text	subjectHeadingTypeTemporalItemText
 metadata	subjectHeadingTypeTemporalItem	user	141414
 metadata	subjectHeadingTypeTemporalItem	validationType	genericCollectionItem
+metadata	subjectOrganisationGroup	collectTerm	organisationInRecordCollectIndexTerm
 metadata	subjectOrganisationGroup	metadata	agentTypeOrganisationCollectionVar
 metadata	subjectOrganisationGroup	metadata	organisationLink
 metadata	subjectOrganisationGroup	recordType	metadata
@@ -61979,7 +61980,6 @@ text	locationGroupDefText	user	coraUser:4412566252284358
 text	locationGroupDefText	validationType	alvinText
 text	locationGroupText	recordType	text
 text	locationGroupText	system	alvin
-text	locationGroupText	user	141414
 text	locationGroupText	user	151515
 text	locationGroupText	user	coraUser:4412566252284358
 text	locationGroupText	validationType	alvinText
@@ -66633,7 +66633,6 @@ text	organisationGroupText	recordType	text
 text	organisationGroupText	system	alvin
 text	organisationGroupText	user	141414
 text	organisationGroupText	user	151515
-text	organisationGroupText	user	coraUser:4412566252284358
 text	organisationGroupText	validationType	alvinText
 text	organisationIncludePartGroupDefText	recordType	text
 text	organisationIncludePartGroupDefText	system	alvin
@@ -68417,7 +68416,6 @@ text	personGroupText	recordType	text
 text	personGroupText	system	alvin
 text	personGroupText	user	141414
 text	personGroupText	user	151515
-text	personGroupText	user	coraUser:4412566252284358
 text	personGroupText	validationType	alvinText
 text	personInfoGroupDefText	recordType	text
 text	personInfoGroupDefText	system	alvin
@@ -78796,7 +78794,6 @@ text	workGroupDefText	user	coraUser:4412566252284358
 text	workGroupDefText	validationType	alvinText
 text	workGroupText	recordType	text
 text	workGroupText	system	alvin
-text	workGroupText	user	141414
 text	workGroupText	user	151515
 text	workGroupText	user	coraUser:4412566252284358
 text	workGroupText	validationType	alvinText
