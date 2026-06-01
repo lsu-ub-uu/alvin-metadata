@@ -70723,7 +70723,6 @@ text	recordGroupDefText	user	coraUser:4412566252284358
 text	recordGroupDefText	validationType	alvinText
 text	recordGroupText	recordType	text
 text	recordGroupText	system	alvin
-text	recordGroupText	user	141414
 text	recordGroupText	user	151515
 text	recordGroupText	user	coraUser:4412566252284358
 text	recordGroupText	validationType	alvinText
