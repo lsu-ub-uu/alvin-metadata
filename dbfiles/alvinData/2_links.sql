@@ -113,7 +113,6 @@ user	user:2422721748622866	permissionRole	userAdminRole
 user	user:2422721748622866	permissionUnit	3
 user	user:2422721748622866	recordType	user
 user	user:2422721748622866	system	alvinData
-user	user:2422721748622866	systemSecret	systemSecret:2422750784931225
 user	user:2422721748622866	user	141414
 user	user:2422721748622866	user	151515
 user	user:2422721748622866	validationType	alvinUser
