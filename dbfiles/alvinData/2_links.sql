@@ -4,6 +4,7 @@ alvin-location	3	recordType	alvin-location
 alvin-location	3	system	alvinData
 alvin-location	3	user	151515
 alvin-location	3	validationType	location
+alvin-organisation	1	alvin-place	679
 alvin-organisation	1	recordType	alvin-organisation
 alvin-organisation	1	system	alvinData
 alvin-organisation	1	user	151515
